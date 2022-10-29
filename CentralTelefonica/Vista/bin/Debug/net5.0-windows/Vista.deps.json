@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vista/1.0.0": {
+        "dependencies": {
+          "CentralTelefonica": "1.0.0"
+        },
+        "runtime": {
+          "Vista.dll": {}
+        }
+      },
+      "CentralTelefonica/1.0.0": {
+        "runtime": {
+          "CentralTelefonica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CentralTelefonica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

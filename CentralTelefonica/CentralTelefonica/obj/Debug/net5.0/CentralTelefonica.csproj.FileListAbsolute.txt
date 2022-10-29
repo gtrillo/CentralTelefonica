@@ -1,0 +1,12 @@
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\bin\Debug\net5.0\CentralTelefonica.deps.json
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\bin\Debug\net5.0\CentralTelefonica.dll
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\bin\Debug\net5.0\CentralTelefonica.pdb
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.dll
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\refint\CentralTelefonica.dll
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.pdb
+C:\Users\Gonzalo\Desktop\Nueva carpeta\CentralTelefonica\CentralTelefonica\obj\Debug\net5.0\ref\CentralTelefonica.dll
